@@ -35,21 +35,17 @@ def download_file(bucket_name, nom_de_lobjet_telecharger, nom_en_local):
     print(f"File {nom_de_lobjet_telecharger} downloaded to {nom_en_local}.")
 
 
-def copier_file_to(blob, folder):
+def copy_file_to(blob, folder):
     ### Compléter le code
 
 def supprimer_object(blob):
     ### Compléter le code
 
 def process_file(blob):
-    data = blob.download_as_text()
-    try:
-        df = pd.read_csv(io.StringIO(data))
-        ## Tester la conformité du fichier
-        ### Si tout est clean copier_file_to(blob, folder="clean") puis supprimer_object(blob)
-        ### S'il ya des erreurs copier_file_to(blob, folder="error") puis supprimer_object(blob)
-    except:
-        ### traiter les erreurs et si ca vient du fichier copier_file_to(blob, folder="error")
+    df = transform_csv_blob_to_df(blob)
+    ## Tester la conformité du fichier
+    ### Si tout est clean copy_file_to(blob, folder="clean") puis supprimer_object(blob)
+    ### S'il ya des erreurs copy_file_to(blob, folder="error") puis supprimer_object(blob)
 
 def process_files(bucket_name):
     blobs = lister_les_objects(bucket_name, prefix=None, delimiter=None)
