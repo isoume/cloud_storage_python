@@ -1,0 +1,677 @@
+transaction_id,product_name,category,price,quantity,date,customer_name,customer_email
+5115,Backpack,Fashion,1011.34,2,2003-01-05,Customer 264,customer124@example.com
+8483,Headphones,Electronics,1515.63,10,2003-01-05,Customer 72,customer349@example.com
+7337,Backpack,Fashion,51.15,3,2003-01-05,Customer 370,customer320@example.com
+3100,Tablet,Electronics,1475.16,7,2003-01-05,Customer 4,customer391@example.com
+1251,Tablet,Electronics,1004.91,9,2003-01-05,Customer 460,customer297@example.com
+3773,Running Shoes,Sports,288.4,7,2003-01-05,Customer 130,customer91@example.com
+8272,Watch,Accessories,1908.8,7,2003-01-12,Customer 333,customer109@example.com
+8429,Backpack,Fashion,253.86,1,2003-01-12,Customer 86,customer310@example.com
+6166,Headphones,Electronics,1053.36,4,2003-01-12,Customer 52,customer390@example.com
+7740,Smartphone,Electronics,1259.32,1,2003-01-12,Customer 67,customer152@example.com
+4158,Office Chair,Furniture,819.75,4,2003-01-12,Customer 319,customer421@example.com
+5094,Backpack,Fashion,840.92,9,2003-01-12,Customer 496,customer311@example.com
+9337,Watch,Accessories,139.63,9,2003-01-12,Customer 477,customer31@example.com
+8417,Running Shoes,Sports,1886.76,10,2003-01-19,Customer 383,customer173@example.com
+6259,Smartphone,Electronics,949.03,3,2003-01-19,Customer 181,customer420@example.com
+6495,Watch,Accessories,743.39,2,2003-01-19,Customer 421,customer285@example.com
+3143,Gaming Laptop,Accessories,1175.41,10,2003-01-19,Customer 250,customer444@example.com
+1190,Running Shoes,Sports,442.62,1,2003-01-19,Customer 23,customer20@example.com
+4178,Backpack,Fashion,1885.76,6,2003-01-19,Customer 173,customer272@example.com
+4818,Running Shoes,Sports,866.05,9,2003-01-19,Customer 94,customer294@example.com
+5929,Backpack,Fashion,1164.63,7,2003-01-26,Customer 474,customer452@example.com
+8702,Headphones,Electronics,116.41,3,2003-01-26,Customer 51,customer145@example.com
+3660,Headphones,Electronics,921.67,1,2003-01-26,Customer 18,customer75@example.com
+8079,Tablet,Electronics,689.97,8,2003-01-26,Customer 391,customer367@example.com
+6056,Gaming Laptop,Accessories,1095.69,8,2003-02-02,Customer 249,customer67@example.com
+8049,Tablet,Electronics,1297.37,3,2003-02-02,Customer 482,customer4@example.com
+8825,Watch,Accessories,1692.68,1,2003-02-02,Customer 148,customer96@example.com
+7024,Gaming Laptop,Accessories,625.11,6,2003-02-02,Customer 391,customer262@example.com
+5434,Headphones,Electronics,217.83,6,2003-02-02,Customer 403,customer98@example.com
+8531,Watch,Accessories,946.97,9,2003-02-02,Customer 426,customer94@example.com
+6626,Office Chair,Furniture,930.39,1,2003-02-02,Customer 500,customer282@example.com
+5531,Headphones,Electronics,1550.59,7,2003-02-09,Customer 84,customer337@example.com
+4325,Running Shoes,Sports,1084.5,3,2003-02-09,Customer 269,customer83@example.com
+7989,Running Shoes,Sports,1986.38,6,2003-02-09,Customer 285,customer221@example.com
+7181,Office Chair,Furniture,1779.73,3,2003-02-16,Customer 438,customer446@example.com
+9263,Smartphone,Electronics,451.53,4,2003-02-16,Customer 336,customer62@example.com
+1627,Gaming Laptop,Accessories,944.53,7,2003-02-16,Customer 486,customer472@example.com
+6859,Watch,Accessories,496.68,9,2003-02-16,Customer 499,customer43@example.com
+5154,Running Shoes,Sports,1348.0,7,2003-02-16,Customer 398,customer316@example.com
+8527,Headphones,Electronics,116.87,2,2003-02-23,Customer 259,customer366@example.com
+5444,Tablet,Electronics,1765.51,2,2003-02-23,Customer 12,customer218@example.com
+3773,Watch,Accessories,1050.14,10,2003-02-23,Customer 151,customer15@example.com
+7889,Office Chair,Furniture,273.95,6,2003-02-23,Customer 36,customer22@example.com
+4851,Running Shoes,Sports,1230.9,5,2003-02-23,Customer 81,customer468@example.com
+6556,Backpack,Fashion,1885.83,7,2003-02-23,Customer 18,customer162@example.com
+2480,Running Shoes,Sports,785.87,2,2003-02-23,Customer 285,customer125@example.com
+3579,Smartphone,Electronics,1721.02,9,2003-03-02,Customer 7,customer52@example.com
+7618,Smartphone,Electronics,1832.76,1,2003-03-02,Customer 241,customer359@example.com
+8709,Gaming Laptop,Accessories,898.92,5,2003-03-02,Customer 263,customer102@example.com
+9592,Tablet,Electronics,1412.49,1,2003-03-02,Customer 343,customer153@example.com
+4302,Headphones,Electronics,1981.72,3,2003-03-02,Customer 201,customer380@example.com
+1055,Headphones,Electronics,772.85,2,2003-03-09,Customer 180,customer284@example.com
+6009,Gaming Laptop,Accessories,1777.39,3,2003-03-09,Customer 399,customer264@example.com
+8959,Watch,Accessories,1405.02,6,2003-03-09,Customer 94,customer140@example.com
+7467,Tablet,Electronics,1120.89,7,2003-03-09,Customer 319,customer316@example.com
+1387,Office Chair,Furniture,1755.79,9,2003-03-09,Customer 284,customer178@example.com
+3209,Office Chair,Furniture,1338.08,7,2003-03-09,Customer 418,customer99@example.com
+3333,Running Shoes,Sports,1225.1,2,2003-03-09,Customer 379,customer345@example.com
+3291,Running Shoes,Sports,1511.68,4,2003-03-09,Customer 148,customer400@example.com
+7815,Smartphone,Electronics,687.66,6,2003-03-09,Customer 418,customer159@example.com
+2437,Tablet,Electronics,668.98,2,2003-03-09,Customer 490,customer26@example.com
+9175,Gaming Laptop,Accessories,1472.41,1,2003-03-16,Customer 206,customer12@example.com
+3858,Headphones,Electronics,1383.81,10,2003-03-16,Customer 87,customer272@example.com
+8534,Headphones,Electronics,1056.56,9,2003-03-16,Customer 186,customer70@example.com
+3399,Running Shoes,Sports,631.37,9,2003-03-16,Customer 83,customer341@example.com
+2702,Backpack,Fashion,377.39,2,2003-03-16,Customer 47,customer94@example.com
+2232,Gaming Laptop,Accessories,1515.7,7,2003-03-23,Customer 415,customer229@example.com
+9248,Backpack,Fashion,279.78,4,2003-03-23,Customer 243,customer346@example.com
+7769,Smartphone,Electronics,1889.1,8,2003-03-23,Customer 345,customer382@example.com
+5493,Tablet,Electronics,1384.7,10,2003-03-23,Customer 182,customer95@example.com
+4325,Backpack,Fashion,817.58,2,2003-03-23,Customer 305,customer489@example.com
+4662,Headphones,Electronics,1975.41,8,2003-03-30,Customer 156,customer286@example.com
+2893,Smartphone,Electronics,1658.67,8,2003-03-30,Customer 369,customer400@example.com
+5479,Smartphone,Electronics,558.47,1,2003-03-30,Customer 84,customer347@example.com
+4399,Office Chair,Furniture,1951.8,4,2003-03-30,Customer 75,customer242@example.com
+7147,Running Shoes,Sports,1047.6,3,2003-04-06,Customer 282,customer471@example.com
+2097,Office Chair,Furniture,1901.85,9,2003-04-06,Customer 359,customer211@example.com
+2116,Backpack,Fashion,1837.73,4,2003-04-06,Customer 425,customer356@example.com
+1537,Gaming Laptop,Accessories,610.79,2,2003-04-06,Customer 347,customer438@example.com
+4951,Watch,Accessories,1644.91,5,2003-04-06,Customer 435,customer432@example.com
+8777,Backpack,Fashion,436.04,1,2003-04-06,Customer 340,customer166@example.com
+4775,Office Chair,Furniture,873.59,3,2003-04-06,Customer 66,customer468@example.com
+6265,Tablet,Electronics,1783.59,6,2003-04-06,Customer 179,customer26@example.com
+1261,Headphones,Electronics,1352.9,8,2003-04-06,Customer 11,customer134@example.com
+6306,Gaming Laptop,Accessories,523.31,2,2003-04-13,Customer 482,customer347@example.com
+1111,Backpack,Fashion,1217.54,10,2003-04-13,Customer 205,customer8@example.com
+9261,Gaming Laptop,Accessories,1321.59,3,2003-04-13,Customer 61,customer478@example.com
+8718,Smartphone,Electronics,647.92,2,2003-04-20,Customer 415,customer151@example.com
+8953,Headphones,Electronics,1114.52,2,2003-04-20,Customer 469,customer320@example.com
+5354,Running Shoes,Sports,464.4,2,2003-04-20,Customer 9,customer495@example.com
+4917,Tablet,Electronics,485.24,4,2003-04-20,Customer 295,customer404@example.com
+4809,Headphones,Electronics,626.66,6,2003-04-20,Customer 411,customer323@example.com
+9814,Backpack,Fashion,1712.61,3,2003-04-20,Customer 82,customer347@example.com
+7252,Smartphone,Electronics,423.51,6,2003-04-20,Customer 275,customer369@example.com
+2278,Backpack,Fashion,1092.83,3,2003-04-27,Customer 138,customer371@example.com
+3510,Smartphone,Electronics,152.3,7,2003-04-27,Customer 69,customer317@example.com
+4508,Headphones,Electronics,897.91,5,2003-04-27,Customer 429,customer474@example.com
+1954,Tablet,Electronics,1105.73,4,2003-04-27,Customer 57,customer463@example.com
+2591,Tablet,Electronics,967.14,5,2003-04-27,Customer 24,customer101@example.com
+8568,Gaming Laptop,Accessories,902.33,6,2003-04-27,Customer 283,customer198@example.com
+7624,Smartphone,Electronics,1299.01,3,2003-04-27,Customer 383,customer49@example.com
+2171,Office Chair,Furniture,306.72,1,2003-04-27,Customer 224,customer77@example.com
+8972,Gaming Laptop,Accessories,706.94,5,2003-04-27,Customer 165,customer126@example.com
+2870,Smartphone,Electronics,345.67,8,2003-05-04,Customer 44,customer71@example.com
+8339,Tablet,Electronics,1781.77,8,2003-05-04,Customer 484,customer337@example.com
+3447,Tablet,Electronics,1272.63,8,2003-05-04,Customer 145,customer18@example.com
+8977,Office Chair,Furniture,1423.06,3,2003-05-04,Customer 69,customer91@example.com
+2689,Tablet,Electronics,888.53,10,2003-05-04,Customer 471,customer58@example.com
+4761,Watch,Accessories,615.85,2,2003-05-04,Customer 263,customer315@example.com
+9685,Office Chair,Furniture,1625.45,9,2003-05-04,Customer 276,customer271@example.com
+8517,Headphones,Electronics,560.88,5,2003-05-04,Customer 490,customer64@example.com
+6510,Tablet,Electronics,1837.3,3,2003-05-04,Customer 327,customer193@example.com
+3492,Running Shoes,Sports,1842.45,3,2003-05-04,Customer 325,customer36@example.com
+8208,Backpack,Fashion,260.99,3,2003-05-11,Customer 2,customer415@example.com
+3745,Tablet,Electronics,491.76,3,2003-05-11,Customer 246,customer214@example.com
+9248,Office Chair,Furniture,60.5,4,2003-05-11,Customer 222,customer218@example.com
+4497,Office Chair,Furniture,1431.8,7,2003-05-11,Customer 20,customer274@example.com
+9959,Tablet,Electronics,1763.14,1,2003-05-11,Customer 308,customer330@example.com
+2131,Running Shoes,Sports,807.66,8,2003-05-11,Customer 346,customer482@example.com
+8571,Gaming Laptop,Accessories,1893.92,4,2003-05-18,Customer 411,customer138@example.com
+4383,Smartphone,Electronics,511.18,7,2003-05-18,Customer 424,customer170@example.com
+1616,Watch,Accessories,1981.82,5,2003-05-18,Customer 496,customer14@example.com
+5877,Tablet,Electronics,189.36,1,2003-05-18,Customer 423,customer111@example.com
+7808,Smartphone,Electronics,524.06,6,2003-05-18,Customer 96,customer471@example.com
+6211,Gaming Laptop,Accessories,342.03,9,2003-05-18,Customer 235,customer177@example.com
+1236,Headphones,Electronics,1627.79,8,2003-05-18,Customer 266,customer362@example.com
+5227,Office Chair,Furniture,1302.07,2,2003-05-25,Customer 214,customer292@example.com
+1278,Backpack,Fashion,1986.76,5,2003-05-25,Customer 372,customer130@example.com
+4284,Smartphone,Electronics,544.9,1,2003-05-25,Customer 79,customer365@example.com
+2643,Running Shoes,Sports,817.1,8,2003-05-25,Customer 317,customer186@example.com
+3082,Gaming Laptop,Accessories,1654.75,8,2003-06-01,Customer 467,customer388@example.com
+3197,Smartphone,Electronics,882.74,10,2003-06-01,Customer 31,customer142@example.com
+2529,Tablet,Electronics,925.03,4,2003-06-01,Customer 255,customer361@example.com
+5609,Watch,Accessories,1334.88,6,2003-06-01,Customer 456,customer497@example.com
+6381,Headphones,Electronics,803.34,6,2003-06-01,Customer 100,customer499@example.com
+8870,Headphones,Electronics,1040.93,1,2003-06-01,Customer 476,customer261@example.com
+1589,Smartphone,Electronics,1664.13,3,2003-06-01,Customer 362,customer118@example.com
+7491,Office Chair,Furniture,1370.05,5,2003-06-01,Customer 486,customer42@example.com
+5531,Smartphone,Electronics,344.84,2,2003-06-08,Customer 135,customer212@example.com
+4980,Headphones,Electronics,795.1,3,2003-06-08,Customer 441,customer166@example.com
+8126,Office Chair,Furniture,322.65,1,2003-06-08,Customer 453,customer91@example.com
+4384,Headphones,Electronics,1570.87,5,2003-06-08,Customer 111,customer98@example.com
+6766,Headphones,Electronics,1940.41,6,2003-06-08,Customer 475,customer394@example.com
+4178,Tablet,Electronics,1063.43,1,2003-06-08,Customer 476,customer384@example.com
+4000,Office Chair,Furniture,942.45,3,2003-06-08,Customer 315,customer287@example.com
+2305,Tablet,Electronics,1363.56,6,2003-06-08,Customer 298,customer257@example.com
+5113,Office Chair,Furniture,1364.54,5,2003-06-15,Customer 77,customer345@example.com
+8636,Gaming Laptop,Accessories,456.59,3,2003-06-15,Customer 102,customer141@example.com
+4103,Watch,Accessories,1245.36,3,2003-06-15,Customer 30,customer262@example.com
+6619,Backpack,Fashion,883.58,5,2003-06-15,Customer 19,customer302@example.com
+6910,Tablet,Electronics,1397.13,10,2003-06-15,Customer 2,customer287@example.com
+6705,Headphones,Electronics,1630.42,9,2003-06-15,Customer 171,customer138@example.com
+1787,Tablet,Electronics,100.85,8,2003-06-15,Customer 395,customer253@example.com
+6938,Backpack,Fashion,1255.18,7,2003-06-15,Customer 8,customer53@example.com
+6723,Watch,Accessories,1882.69,4,2003-06-15,Customer 500,customer203@example.com
+8252,Headphones,Electronics,1189.68,6,2003-06-15,Customer 268,customer30@example.com
+9169,Backpack,Fashion,1001.41,5,2003-06-22,Customer 72,customer202@example.com
+7937,Tablet,Electronics,1651.19,6,2003-06-22,Customer 388,customer15@example.com
+7652,Office Chair,Furniture,806.55,4,2003-06-22,Customer 114,customer95@example.com
+4316,Backpack,Fashion,467.61,8,2003-06-22,Customer 417,customer99@example.com
+2585,Office Chair,Furniture,1283.95,1,2003-06-22,Customer 98,customer144@example.com
+4566,Office Chair,Furniture,779.75,8,2003-06-22,Customer 472,customer40@example.com
+2319,Running Shoes,Sports,566.5,7,2003-06-22,Customer 413,customer182@example.com
+7136,Headphones,Electronics,191.45,9,2003-06-22,Customer 138,customer194@example.com
+8296,Tablet,Electronics,416.46,1,2003-06-29,Customer 347,customer133@example.com
+5790,Backpack,Fashion,1917.04,4,2003-06-29,Customer 489,customer14@example.com
+7800,Office Chair,Furniture,1569.81,7,2003-06-29,Customer 275,customer157@example.com
+4236,Headphones,Electronics,1422.25,10,2003-06-29,Customer 149,customer288@example.com
+5613,Headphones,Electronics,368.16,3,2003-06-29,Customer 485,customer166@example.com
+2400,Gaming Laptop,Accessories,1170.9,9,2003-06-29,Customer 344,customer496@example.com
+9720,Running Shoes,Sports,1642.28,7,2003-07-06,Customer 281,customer96@example.com
+3340,Headphones,Electronics,635.12,10,2003-07-06,Customer 462,customer68@example.com
+7909,Smartphone,Electronics,660.86,5,2003-07-06,Customer 292,customer311@example.com
+4397,Gaming Laptop,Accessories,381.8,3,2003-07-06,Customer 120,customer448@example.com
+8831,Watch,Accessories,928.32,3,2003-07-06,Customer 305,customer354@example.com
+9563,Headphones,Electronics,429.94,10,2003-07-06,Customer 489,customer432@example.com
+7303,Running Shoes,Sports,1272.39,1,2003-07-06,Customer 301,customer147@example.com
+1225,Backpack,Fashion,1660.73,6,2003-07-13,Customer 267,customer12@example.com
+8152,Watch,Accessories,1051.83,4,2003-07-13,Customer 148,customer58@example.com
+1331,Backpack,Fashion,1638.04,3,2003-07-13,Customer 325,customer43@example.com
+2081,Watch,Accessories,795.08,4,2003-07-13,Customer 115,customer204@example.com
+1101,Gaming Laptop,Accessories,1983.79,10,2003-07-13,Customer 93,customer193@example.com
+8598,Smartphone,Electronics,1736.05,9,2003-07-13,Customer 455,customer274@example.com
+8783,Running Shoes,Sports,66.23,6,2003-07-13,Customer 447,customer189@example.com
+9553,Gaming Laptop,Accessories,643.66,8,2003-07-13,Customer 29,customer197@example.com
+7003,Running Shoes,Sports,1993.28,8,2003-07-13,Customer 199,customer284@example.com
+9599,Headphones,Electronics,1261.85,6,2003-07-20,Customer 223,customer440@example.com
+2792,Smartphone,Electronics,1211.97,8,2003-07-20,Customer 282,customer412@example.com
+3536,Headphones,Electronics,1377.98,7,2003-07-20,Customer 153,customer107@example.com
+1206,Tablet,Electronics,785.11,1,2003-07-20,Customer 302,customer280@example.com
+1722,Office Chair,Furniture,78.67,9,2003-07-20,Customer 438,customer29@example.com
+4693,Headphones,Electronics,203.16,7,2003-07-20,Customer 174,customer264@example.com
+2375,Headphones,Electronics,1028.16,7,2003-07-27,Customer 187,customer336@example.com
+8292,Smartphone,Electronics,1836.95,10,2003-07-27,Customer 20,customer23@example.com
+4753,Watch,Accessories,1543.31,8,2003-07-27,Customer 11,customer420@example.com
+4069,Office Chair,Furniture,1179.76,2,2003-07-27,Customer 303,customer413@example.com
+3253,Backpack,Fashion,171.9,4,2003-07-27,Customer 379,customer367@example.com
+3275,Office Chair,Furniture,378.58,8,2003-07-27,Customer 405,customer175@example.com
+8087,Smartphone,Electronics,1182.9,6,2003-07-27,Customer 219,customer81@example.com
+9555,Smartphone,Electronics,858.97,7,2003-07-27,Customer 260,customer453@example.com
+6687,Watch,Accessories,382.43,6,2003-08-03,Customer 103,customer126@example.com
+1733,Running Shoes,Sports,1144.62,6,2003-08-03,Customer 321,customer352@example.com
+6110,Gaming Laptop,Accessories,1069.23,9,2003-08-03,Customer 376,customer110@example.com
+1293,Watch,Accessories,1726.78,7,2003-08-03,Customer 6,customer65@example.com
+1925,Running Shoes,Sports,555.47,2,2003-08-03,Customer 310,customer239@example.com
+3345,Watch,Accessories,1101.33,3,2003-08-10,Customer 211,customer96@example.com
+2055,Smartphone,Electronics,1496.27,8,2003-08-10,Customer 324,customer17@example.com
+3924,Backpack,Fashion,476.55,10,2003-08-10,Customer 396,customer61@example.com
+9545,Smartphone,Electronics,1614.46,6,2003-08-10,Customer 320,customer283@example.com
+4901,Headphones,Electronics,732.62,6,2003-08-10,Customer 457,customer212@example.com
+7091,Running Shoes,Sports,360.29,1,2003-08-17,Customer 297,customer155@example.com
+3709,Watch,Accessories,232.96,8,2003-08-17,Customer 96,customer400@example.com
+4834,Watch,Accessories,1721.72,7,2003-08-17,Customer 321,customer224@example.com
+4881,Running Shoes,Sports,1256.53,4,2003-08-17,Customer 280,customer477@example.com
+5830,Headphones,Electronics,741.18,9,2003-08-17,Customer 369,customer427@example.com
+3947,Watch,Accessories,888.95,5,2003-08-24,Customer 149,customer196@example.com
+6318,Tablet,Electronics,1165.0,10,2003-08-24,Customer 283,customer18@example.com
+7807,Backpack,Fashion,307.71,7,2003-08-24,Customer 3,customer239@example.com
+7597,Gaming Laptop,Accessories,146.3,3,2003-08-24,Customer 424,customer490@example.com
+1420,Headphones,Electronics,1011.36,5,2003-08-31,Customer 146,customer250@example.com
+9506,Office Chair,Furniture,1241.14,6,2003-08-31,Customer 415,customer45@example.com
+1911,Tablet,Electronics,985.72,1,2003-08-31,Customer 301,customer17@example.com
+3603,Headphones,Electronics,689.67,10,2003-08-31,Customer 171,customer351@example.com
+1468,Headphones,Electronics,1003.69,2,2003-08-31,Customer 130,customer64@example.com
+9524,Smartphone,Electronics,1494.08,5,2003-08-31,Customer 236,customer72@example.com
+9467,Watch,Accessories,355.94,8,2003-08-31,Customer 28,customer96@example.com
+6305,Running Shoes,Sports,1301.54,1,2003-08-31,Customer 404,customer364@example.com
+4128,Watch,Accessories,1741.6,1,2003-09-07,Customer 271,customer288@example.com
+7583,Running Shoes,Sports,1093.88,2,2003-09-07,Customer 258,customer416@example.com
+3709,Gaming Laptop,Accessories,1294.52,1,2003-09-07,Customer 426,customer240@example.com
+6390,Tablet,Electronics,1044.49,10,2003-09-07,Customer 4,customer317@example.com
+8414,Tablet,Electronics,788.32,5,2003-09-07,Customer 425,customer58@example.com
+8126,Smartphone,Electronics,852.5,2,2003-09-07,Customer 252,customer235@example.com
+4029,Smartphone,Electronics,1562.2,1,2003-09-07,Customer 160,customer376@example.com
+3329,Watch,Accessories,418.92,3,2003-09-07,Customer 134,customer442@example.com
+8567,Headphones,Electronics,738.7,1,2003-09-07,Customer 261,customer389@example.com
+3990,Backpack,Fashion,561.05,9,2003-09-14,Customer 27,customer360@example.com
+4086,Tablet,Electronics,522.04,2,2003-09-14,Customer 165,customer210@example.com
+8749,Gaming Laptop,Accessories,1123.1,4,2003-09-14,Customer 184,customer396@example.com
+9340,Watch,Accessories,455.3,6,2003-09-14,Customer 485,customer268@example.com
+5019,Smartphone,Electronics,1780.74,3,2003-09-21,Customer 472,customer370@example.com
+6639,Office Chair,Furniture,1639.32,1,2003-09-21,Customer 3,customer96@example.com
+7581,Headphones,Electronics,1396.48,3,2003-09-21,Customer 435,customer498@example.com
+4478,Gaming Laptop,Accessories,1944.89,1,2003-09-21,Customer 338,customer322@example.com
+6343,Smartphone,Electronics,1830.74,1,2003-09-28,Customer 281,customer205@example.com
+9395,Smartphone,Electronics,1759.6,5,2003-09-28,Customer 261,customer414@example.com
+6171,Headphones,Electronics,135.77,8,2003-09-28,Customer 263,customer428@example.com
+5145,Backpack,Fashion,1987.26,10,2003-09-28,Customer 186,customer145@example.com
+6687,Gaming Laptop,Accessories,1422.03,3,2003-09-28,Customer 234,customer391@example.com
+3864,Office Chair,Furniture,1733.03,6,2003-09-28,Customer 234,customer243@example.com
+9959,Watch,Accessories,1548.18,10,2003-10-05,Customer 72,customer264@example.com
+6631,Running Shoes,Sports,1352.67,5,2003-10-05,Customer 302,customer107@example.com
+8998,Smartphone,Electronics,263.14,5,2003-10-05,Customer 75,customer237@example.com
+8064,Gaming Laptop,Accessories,1756.49,8,2003-10-05,Customer 28,customer183@example.com
+6804,Office Chair,Furniture,409.27,2,2003-10-05,Customer 249,customer263@example.com
+5363,Running Shoes,Sports,162.74,1,2003-10-12,Customer 426,customer366@example.com
+7855,Gaming Laptop,Accessories,1133.44,3,2003-10-12,Customer 302,customer50@example.com
+7834,Running Shoes,Sports,1902.59,10,2003-10-12,Customer 202,customer128@example.com
+7939,Running Shoes,Sports,427.22,9,2003-10-12,Customer 220,customer366@example.com
+7311,Headphones,Electronics,392.06,1,2003-10-12,Customer 415,customer169@example.com
+8512,Smartphone,Electronics,1245.39,8,2003-10-12,Customer 171,customer351@example.com
+2421,Office Chair,Furniture,480.74,3,2003-10-12,Customer 185,customer125@example.com
+7163,Gaming Laptop,Accessories,194.34,2,2003-10-12,Customer 371,customer39@example.com
+6118,Watch,Accessories,848.96,8,2003-10-19,Customer 493,customer48@example.com
+1467,Watch,Accessories,1329.14,2,2003-10-19,Customer 356,customer179@example.com
+6053,Gaming Laptop,Accessories,1202.31,5,2003-10-19,Customer 416,customer292@example.com
+9163,Backpack,Fashion,1379.94,2,2003-10-19,Customer 264,customer312@example.com
+5324,Backpack,Fashion,1129.22,8,2003-10-19,Customer 369,customer74@example.com
+7648,Smartphone,Electronics,790.04,8,2003-10-19,Customer 268,customer103@example.com
+6686,Watch,Accessories,1558.75,9,2003-10-19,Customer 372,customer490@example.com
+2310,Tablet,Electronics,1541.64,10,2003-10-26,Customer 182,customer429@example.com
+2343,Smartphone,Electronics,69.64,5,2003-10-26,Customer 154,customer325@example.com
+8107,Watch,Accessories,694.95,9,2003-10-26,Customer 354,customer492@example.com
+4750,Running Shoes,Sports,641.26,9,2003-10-26,Customer 93,customer420@example.com
+7031,Running Shoes,Sports,212.16,2,2003-10-26,Customer 217,customer273@example.com
+4086,Smartphone,Electronics,102.7,10,2003-11-02,Customer 232,customer479@example.com
+9714,Smartphone,Electronics,1701.28,4,2003-11-02,Customer 71,customer480@example.com
+9385,Backpack,Fashion,764.0,2,2003-11-02,Customer 437,customer224@example.com
+6714,Tablet,Electronics,960.24,3,2003-11-09,Customer 454,customer407@example.com
+4038,Gaming Laptop,Accessories,1915.37,5,2003-11-09,Customer 368,customer457@example.com
+4182,Headphones,Electronics,1747.11,4,2003-11-09,Customer 478,customer361@example.com
+5303,Backpack,Fashion,1462.18,8,2003-11-09,Customer 137,customer372@example.com
+9649,Running Shoes,Sports,1802.02,2,2003-11-16,Customer 108,customer387@example.com
+6414,Running Shoes,Sports,836.92,4,2003-11-16,Customer 27,customer260@example.com
+6742,Backpack,Fashion,512.58,5,2003-11-16,Customer 445,customer256@example.com
+9500,Running Shoes,Sports,660.14,1,2003-11-16,Customer 185,customer176@example.com
+4688,Smartphone,Electronics,1359.78,4,2003-11-23,Customer 287,customer259@example.com
+6701,Backpack,Fashion,1912.01,6,2003-11-23,Customer 110,customer493@example.com
+4524,Running Shoes,Sports,1795.73,7,2003-11-23,Customer 18,customer244@example.com
+1897,Tablet,Electronics,577.28,3,2003-11-23,Customer 401,customer448@example.com
+9612,Gaming Laptop,Accessories,872.2,7,2003-11-23,Customer 414,customer471@example.com
+3290,Smartphone,Electronics,1428.54,1,2003-11-23,Customer 415,customer173@example.com
+9831,Headphones,Electronics,904.42,10,2003-11-23,Customer 335,customer325@example.com
+7744,Gaming Laptop,Accessories,857.67,10,2003-11-23,Customer 425,customer332@example.com
+7321,Smartphone,Electronics,102.21,4,2003-11-30,Customer 333,customer56@example.com
+3418,Headphones,Electronics,1727.79,10,2003-11-30,Customer 430,customer62@example.com
+5215,Gaming Laptop,Accessories,475.44,2,2003-11-30,Customer 103,customer404@example.com
+9592,Headphones,Electronics,1317.5,5,2003-11-30,Customer 148,customer437@example.com
+8380,Watch,Accessories,400.95,9,2003-11-30,Customer 407,customer330@example.com
+6747,Tablet,Electronics,485.36,5,2003-11-30,Customer 36,customer101@example.com
+8466,Smartphone,Electronics,1049.72,4,2003-11-30,Customer 435,customer446@example.com
+2881,Smartphone,Electronics,631.04,6,2003-11-30,Customer 274,customer163@example.com
+3642,Gaming Laptop,Accessories,874.58,7,2003-12-07,Customer 342,customer438@example.com
+1183,Tablet,Electronics,122.95,10,2003-12-07,Customer 253,customer121@example.com
+2535,Smartphone,Electronics,1350.13,3,2003-12-07,Customer 40,customer212@example.com
+7487,Gaming Laptop,Accessories,1947.34,4,2003-12-07,Customer 31,customer376@example.com
+3188,Watch,Accessories,1573.4,9,2003-12-07,Customer 66,customer333@example.com
+5954,Running Shoes,Sports,1344.37,6,2003-12-07,Customer 108,customer140@example.com
+6513,Smartphone,Electronics,1698.94,10,2003-12-07,Customer 199,customer152@example.com
+6385,Tablet,Electronics,1179.47,9,2003-12-07,Customer 365,customer68@example.com
+8938,Office Chair,Furniture,1771.73,4,2003-12-07,Customer 313,customer404@example.com
+2018,Watch,Accessories,446.98,1,2003-12-07,Customer 336,customer62@example.com
+2718,Headphones,Electronics,1746.14,6,2003-12-14,Customer 149,customer345@example.com
+8667,Smartphone,Electronics,1090.51,8,2003-12-14,Customer 91,customer23@example.com
+7579,Smartphone,Electronics,1958.68,3,2003-12-14,Customer 480,customer489@example.com
+6058,Gaming Laptop,Accessories,1164.66,6,2003-12-14,Customer 61,customer82@example.com
+2099,Running Shoes,Sports,372.02,3,2003-12-14,Customer 60,customer271@example.com
+5278,Gaming Laptop,Accessories,252.76,7,2003-12-14,Customer 17,customer470@example.com
+4730,Headphones,Electronics,1914.19,6,2003-12-21,Customer 165,customer20@example.com
+1361,Running Shoes,Sports,589.34,5,2003-12-21,Customer 253,customer437@example.com
+5253,Headphones,Electronics,1495.34,2,2003-12-21,Customer 142,customer135@example.com
+9554,Watch,Accessories,1425.51,5,2003-12-28,Customer 451,customer25@example.com
+1094,Backpack,Fashion,773.48,1,2003-12-28,Customer 89,customer357@example.com
+7689,Tablet,Electronics,1455.03,9,2003-12-28,Customer 382,customer468@example.com
+4075,Tablet,Electronics,1234.57,10,2003-12-28,Customer 151,customer376@example.com
+5328,Watch,Accessories,80.74,5,2003-12-28,Customer 229,customer259@example.com
+3626,Gaming Laptop,Accessories,1221.23,3,2003-12-28,Customer 86,customer330@example.com
+2158,Headphones,Electronics,1423.76,7,2003-12-28,Customer 233,customer40@example.com
+3841,Backpack,Fashion,1856.18,9,2003-12-28,Customer 311,customer396@example.com
+8808,Running Shoes,Sports,451.19,4,2005-01-02,Customer 74,customer200@example.com
+9067,Office Chair,Furniture,550.21,3,2005-01-02,Customer 71,customer497@example.com
+2149,Backpack,Fashion,1302.68,7,2005-01-02,Customer 276,customer367@example.com
+7280,Smartphone,Electronics,1968.08,9,2005-01-02,Customer 118,customer130@example.com
+3593,Backpack,Fashion,111.95,9,2005-01-02,Customer 401,customer335@example.com
+6503,Gaming Laptop,Accessories,1933.58,1,2005-01-02,Customer 217,customer305@example.com
+2086,Office Chair,Furniture,1530.45,1,2005-01-02,Customer 495,customer454@example.com
+8781,Backpack,Fashion,1758.41,8,2005-01-02,Customer 28,customer346@example.com
+6801,Tablet,Electronics,1878.01,2,2005-01-09,Customer 247,customer368@example.com
+4816,Running Shoes,Sports,260.22,3,2005-01-09,Customer 266,customer107@example.com
+3155,Headphones,Electronics,1695.53,9,2005-01-09,Customer 102,customer333@example.com
+8230,Office Chair,Furniture,1095.06,2,2005-01-09,Customer 144,customer3@example.com
+9621,Backpack,Fashion,1399.43,7,2005-01-16,Customer 452,customer469@example.com
+1484,Gaming Laptop,Accessories,1697.68,5,2005-01-16,Customer 390,customer225@example.com
+2540,Office Chair,Furniture,1959.92,6,2005-01-16,Customer 270,customer221@example.com
+8059,Headphones,Electronics,1440.61,1,2005-01-16,Customer 99,customer144@example.com
+6415,Smartphone,Electronics,255.24,8,2005-01-23,Customer 284,customer364@example.com
+1341,Office Chair,Furniture,884.62,1,2005-01-23,Customer 77,customer391@example.com
+7640,Backpack,Fashion,1554.74,1,2005-01-23,Customer 304,customer292@example.com
+8320,Running Shoes,Sports,980.56,8,2005-01-23,Customer 400,customer407@example.com
+6131,Gaming Laptop,Accessories,1288.92,1,2005-01-23,Customer 291,customer222@example.com
+2844,Headphones,Electronics,860.82,6,2005-01-23,Customer 389,customer324@example.com
+2201,Tablet,Electronics,225.48,9,2005-01-23,Customer 386,customer394@example.com
+7672,Backpack,Fashion,557.47,4,2005-01-23,Customer 54,customer280@example.com
+4988,Watch,Accessories,865.33,8,2005-01-23,Customer 226,customer431@example.com
+8776,Tablet,Electronics,1883.25,1,2005-01-23,Customer 473,customer478@example.com
+4589,Smartphone,Electronics,180.61,9,2005-01-30,Customer 415,customer290@example.com
+7390,Backpack,Fashion,246.45,8,2005-01-30,Customer 341,customer125@example.com
+2674,Watch,Accessories,75.51,3,2005-01-30,Customer 278,customer277@example.com
+4493,Watch,Accessories,971.78,10,2005-01-30,Customer 473,customer283@example.com
+2005,Watch,Accessories,817.41,2,2005-01-30,Customer 300,customer108@example.com
+4884,Smartphone,Electronics,78.16,3,2005-01-30,Customer 277,customer8@example.com
+2633,Office Chair,Furniture,1887.56,1,2005-01-30,Customer 385,customer162@example.com
+1308,Running Shoes,Sports,452.96,9,2005-01-30,Customer 428,customer370@example.com
+5266,Smartphone,Electronics,181.46,4,2005-02-06,Customer 281,customer354@example.com
+5778,Gaming Laptop,Accessories,1828.2,5,2005-02-06,Customer 385,customer258@example.com
+2055,Office Chair,Furniture,1341.42,1,2005-02-06,Customer 82,customer113@example.com
+1185,Running Shoes,Sports,1846.16,1,2005-02-06,Customer 437,customer50@example.com
+3148,Running Shoes,Sports,1903.63,2,2005-02-06,Customer 250,customer40@example.com
+6173,Gaming Laptop,Accessories,1413.96,10,2005-02-06,Customer 282,customer327@example.com
+7421,Gaming Laptop,Accessories,1281.43,3,2005-02-06,Customer 491,customer331@example.com
+7148,Running Shoes,Sports,397.12,8,2005-02-06,Customer 139,customer87@example.com
+1698,Running Shoes,Sports,1517.09,3,2005-02-06,Customer 236,customer280@example.com
+2383,Tablet,Electronics,1260.33,9,2005-02-06,Customer 51,customer423@example.com
+6936,Tablet,Electronics,799.69,9,2005-02-13,Customer 481,customer482@example.com
+7384,Watch,Accessories,1260.93,10,2005-02-13,Customer 272,customer445@example.com
+1115,Headphones,Electronics,1728.45,3,2005-02-13,Customer 360,customer266@example.com
+8540,Smartphone,Electronics,1452.83,3,2005-02-13,Customer 241,customer336@example.com
+1371,Headphones,Electronics,468.69,5,2005-02-13,Customer 44,customer408@example.com
+7750,Headphones,Electronics,1113.78,5,2005-02-13,Customer 186,customer444@example.com
+7718,Running Shoes,Sports,871.64,1,2005-02-13,Customer 320,customer136@example.com
+8033,Gaming Laptop,Accessories,808.81,2,2005-02-13,Customer 437,customer476@example.com
+4702,Smartphone,Electronics,968.87,7,2005-02-20,Customer 146,customer82@example.com
+4669,Running Shoes,Sports,1432.7,2,2005-02-20,Customer 123,customer423@example.com
+1742,Tablet,Electronics,237.32,7,2005-02-20,Customer 234,customer368@example.com
+2050,Smartphone,Electronics,63.77,5,2005-02-27,Customer 404,customer319@example.com
+9185,Gaming Laptop,Accessories,1250.12,3,2005-02-27,Customer 323,customer171@example.com
+9495,Smartphone,Electronics,1538.49,2,2005-02-27,Customer 295,customer92@example.com
+3952,Headphones,Electronics,839.08,2,2005-02-27,Customer 139,customer188@example.com
+1176,Backpack,Fashion,186.68,1,2005-02-27,Customer 81,customer390@example.com
+6268,Tablet,Electronics,914.82,6,2005-02-27,Customer 482,customer201@example.com
+5130,Watch,Accessories,1258.18,10,2005-02-27,Customer 86,customer465@example.com
+4299,Gaming Laptop,Accessories,1346.42,5,2005-02-27,Customer 450,customer487@example.com
+8063,Backpack,Fashion,636.85,1,2005-02-27,Customer 330,customer57@example.com
+3280,Smartphone,Electronics,581.83,3,2005-02-27,Customer 128,customer116@example.com
+6926,Headphones,Electronics,355.02,6,2005-03-06,Customer 252,customer273@example.com
+7317,Office Chair,Furniture,1918.84,2,2005-03-06,Customer 390,customer47@example.com
+5175,Running Shoes,Sports,1722.9,8,2005-03-06,Customer 264,customer259@example.com
+3878,Backpack,Fashion,1682.53,3,2005-03-06,Customer 122,customer323@example.com
+7710,Headphones,Electronics,585.4,6,2005-03-06,Customer 99,customer85@example.com
+7654,Tablet,Electronics,842.86,10,2005-03-06,Customer 440,customer354@example.com
+6498,Headphones,Electronics,1584.88,9,2005-03-13,Customer 381,customer76@example.com
+8576,Tablet,Electronics,221.88,8,2005-03-13,Customer 229,customer288@example.com
+9504,Watch,Accessories,1967.17,7,2005-03-13,Customer 51,customer121@example.com
+7028,Office Chair,Furniture,706.52,4,2005-03-13,Customer 457,customer84@example.com
+4722,Watch,Accessories,525.46,3,2005-03-20,Customer 384,customer310@example.com
+9331,Gaming Laptop,Accessories,280.3,3,2005-03-20,Customer 495,customer256@example.com
+9384,Backpack,Fashion,296.54,3,2005-03-20,Customer 457,customer296@example.com
+7016,Office Chair,Furniture,115.55,9,2005-03-27,Customer 422,customer105@example.com
+7377,Tablet,Electronics,217.12,9,2005-03-27,Customer 119,customer340@example.com
+8588,Office Chair,Furniture,408.22,8,2005-03-27,Customer 294,customer457@example.com
+4023,Watch,Accessories,917.52,4,2005-04-03,Customer 479,customer170@example.com
+7688,Tablet,Electronics,130.56,5,2005-04-03,Customer 367,customer280@example.com
+9166,Headphones,Electronics,414.85,7,2005-04-03,Customer 48,customer375@example.com
+4212,Office Chair,Furniture,1497.74,10,2005-04-03,Customer 396,customer331@example.com
+7348,Backpack,Fashion,1696.34,8,2005-04-03,Customer 489,customer419@example.com
+6413,Smartphone,Electronics,712.28,1,2005-04-03,Customer 25,customer353@example.com
+5965,Headphones,Electronics,1805.76,8,2005-04-03,Customer 498,customer413@example.com
+4378,Tablet,Electronics,326.05,8,2005-04-03,Customer 49,customer130@example.com
+8993,Backpack,Fashion,1648.11,1,2005-04-03,Customer 6,customer313@example.com
+8168,Backpack,Fashion,358.35,7,2005-04-03,Customer 186,customer79@example.com
+2599,Running Shoes,Sports,1604.52,2,2005-04-10,Customer 190,customer491@example.com
+7250,Gaming Laptop,Accessories,1698.38,6,2005-04-10,Customer 378,customer261@example.com
+8547,Tablet,Electronics,1676.04,10,2005-04-10,Customer 172,customer89@example.com
+6578,Watch,Accessories,1933.99,8,2005-04-17,Customer 267,customer125@example.com
+5367,Watch,Accessories,1253.54,8,2005-04-17,Customer 150,customer327@example.com
+8541,Backpack,Fashion,352.53,4,2005-04-17,Customer 385,customer314@example.com
+3466,Headphones,Electronics,757.28,8,2005-04-17,Customer 73,customer481@example.com
+9911,Tablet,Electronics,1842.55,10,2005-04-17,Customer 343,customer59@example.com
+8678,Tablet,Electronics,1016.13,4,2005-04-17,Customer 207,customer88@example.com
+7556,Tablet,Electronics,1451.24,4,2005-04-17,Customer 92,customer1@example.com
+3951,Running Shoes,Sports,1811.71,5,2005-04-17,Customer 376,customer118@example.com
+1600,Watch,Accessories,412.26,6,2005-04-17,Customer 158,customer281@example.com
+5446,Office Chair,Furniture,1435.83,5,2005-04-24,Customer 305,customer191@example.com
+1728,Backpack,Fashion,437.26,6,2005-04-24,Customer 138,customer121@example.com
+5732,Office Chair,Furniture,432.99,6,2005-04-24,Customer 370,customer185@example.com
+2233,Headphones,Electronics,1038.53,9,2005-04-24,Customer 212,customer167@example.com
+6256,Smartphone,Electronics,1686.51,8,2005-04-24,Customer 383,customer12@example.com
+7893,Backpack,Fashion,1625.97,7,2005-05-01,Customer 486,customer443@example.com
+2133,Headphones,Electronics,492.54,9,2005-05-01,Customer 499,customer438@example.com
+7911,Office Chair,Furniture,962.93,5,2005-05-01,Customer 468,customer376@example.com
+5119,Gaming Laptop,Accessories,1393.01,5,2005-05-01,Customer 500,customer80@example.com
+2281,Smartphone,Electronics,586.29,10,2005-05-01,Customer 209,customer125@example.com
+8935,Running Shoes,Sports,808.45,5,2005-05-01,Customer 158,customer478@example.com
+6529,Tablet,Electronics,275.12,5,2005-05-01,Customer 384,customer312@example.com
+1689,Running Shoes,Sports,1689.89,1,2005-05-08,Customer 91,customer451@example.com
+3450,Tablet,Electronics,1298.35,7,2005-05-08,Customer 229,customer193@example.com
+3874,Headphones,Electronics,593.79,9,2005-05-08,Customer 321,customer205@example.com
+5969,Gaming Laptop,Accessories,984.71,10,2005-05-08,Customer 295,customer71@example.com
+8411,Office Chair,Furniture,432.43,7,2005-05-08,Customer 137,customer12@example.com
+4506,Tablet,Electronics,1302.77,1,2005-05-08,Customer 9,customer94@example.com
+6007,Headphones,Electronics,865.05,7,2005-05-08,Customer 12,customer1@example.com
+6513,Headphones,Electronics,494.61,10,2005-05-08,Customer 253,customer349@example.com
+5747,Running Shoes,Sports,1505.85,9,2005-05-15,Customer 274,customer132@example.com
+4163,Gaming Laptop,Accessories,95.79,10,2005-05-15,Customer 431,customer406@example.com
+9273,Tablet,Electronics,1473.04,10,2005-05-15,Customer 319,customer92@example.com
+7622,Tablet,Electronics,1297.32,6,2005-05-22,Customer 323,customer467@example.com
+3307,Watch,Accessories,642.9,9,2005-05-22,Customer 405,customer86@example.com
+9526,Gaming Laptop,Accessories,385.93,3,2005-05-22,Customer 65,customer374@example.com
+3468,Watch,Accessories,1751.26,2,2005-05-22,Customer 350,customer426@example.com
+3409,Gaming Laptop,Accessories,1884.44,5,2005-05-29,Customer 446,customer402@example.com
+1788,Running Shoes,Sports,1492.82,4,2005-05-29,Customer 325,customer318@example.com
+2327,Office Chair,Furniture,1140.3,3,2005-05-29,Customer 261,customer461@example.com
+6034,Smartphone,Electronics,1754.97,9,2005-06-05,Customer 226,customer339@example.com
+9642,Running Shoes,Sports,1106.91,5,2005-06-05,Customer 249,customer404@example.com
+5418,Gaming Laptop,Accessories,901.9,3,2005-06-05,Customer 246,customer33@example.com
+3594,Headphones,Electronics,658.46,8,2005-06-05,Customer 226,customer464@example.com
+1014,Gaming Laptop,Accessories,344.7,1,2005-06-05,Customer 12,customer69@example.com
+7078,Tablet,Electronics,1349.26,6,2005-06-05,Customer 344,customer144@example.com
+9985,Gaming Laptop,Accessories,1310.79,4,2005-06-05,Customer 276,customer50@example.com
+9793,Office Chair,Furniture,1637.17,3,2005-06-05,Customer 395,customer139@example.com
+2225,Headphones,Electronics,167.26,4,2005-06-05,Customer 89,customer45@example.com
+3697,Watch,Accessories,592.46,2,2005-06-12,Customer 157,customer233@example.com
+8936,Smartphone,Electronics,1171.54,1,2005-06-12,Customer 170,customer55@example.com
+2930,Gaming Laptop,Accessories,1725.66,9,2005-06-12,Customer 335,customer443@example.com
+6176,Tablet,Electronics,444.79,9,2005-06-12,Customer 342,customer187@example.com
+2732,Gaming Laptop,Accessories,1149.64,7,2005-06-12,Customer 73,customer96@example.com
+8320,Smartphone,Electronics,176.36,5,2005-06-19,Customer 116,customer84@example.com
+1872,Office Chair,Furniture,273.86,8,2005-06-19,Customer 311,customer362@example.com
+2304,Headphones,Electronics,1065.76,1,2005-06-19,Customer 86,customer441@example.com
+7682,Headphones,Electronics,1393.88,4,2005-06-19,Customer 88,customer210@example.com
+1192,Running Shoes,Sports,1710.56,4,2005-06-19,Customer 390,customer60@example.com
+3972,Office Chair,Furniture,557.96,10,2005-06-19,Customer 83,customer28@example.com
+1719,Smartphone,Electronics,133.8,5,2005-06-26,Customer 464,customer172@example.com
+4093,Tablet,Electronics,773.42,8,2005-06-26,Customer 34,customer375@example.com
+4795,Running Shoes,Sports,120.77,10,2005-06-26,Customer 16,customer72@example.com
+9183,Watch,Accessories,138.06,4,2005-06-26,Customer 73,customer459@example.com
+3120,Watch,Accessories,1901.5,2,2005-06-26,Customer 65,customer184@example.com
+4937,Gaming Laptop,Accessories,207.47,6,2005-06-26,Customer 154,customer284@example.com
+9007,Smartphone,Electronics,1736.29,1,2005-06-26,Customer 486,customer78@example.com
+3423,Headphones,Electronics,717.47,7,2005-07-03,Customer 306,customer204@example.com
+6081,Headphones,Electronics,1314.94,2,2005-07-03,Customer 468,customer145@example.com
+6561,Backpack,Fashion,445.61,1,2005-07-03,Customer 290,customer155@example.com
+5658,Office Chair,Furniture,1031.14,4,2005-07-03,Customer 20,customer406@example.com
+5954,Watch,Accessories,228.36,9,2005-07-03,Customer 191,customer275@example.com
+3584,Backpack,Fashion,1082.62,3,2005-07-03,Customer 107,customer310@example.com
+3603,Running Shoes,Sports,432.61,7,2005-07-03,Customer 211,customer272@example.com
+1990,Office Chair,Furniture,1990.81,5,2005-07-03,Customer 270,customer488@example.com
+9047,Running Shoes,Sports,1283.54,1,2005-07-03,Customer 322,customer259@example.com
+2315,Office Chair,Furniture,1545.42,4,2005-07-10,Customer 248,customer245@example.com
+9517,Smartphone,Electronics,260.48,4,2005-07-10,Customer 65,customer482@example.com
+2178,Headphones,Electronics,178.9,10,2005-07-10,Customer 267,customer109@example.com
+6522,Backpack,Fashion,1881.11,3,2005-07-10,Customer 68,customer189@example.com
+6904,Watch,Accessories,1635.33,1,2005-07-10,Customer 229,customer481@example.com
+7326,Gaming Laptop,Accessories,443.66,7,2005-07-10,Customer 110,customer178@example.com
+8712,Watch,Accessories,372.15,4,2005-07-10,Customer 79,customer134@example.com
+2373,Gaming Laptop,Accessories,238.06,5,2005-07-17,Customer 301,customer403@example.com
+5338,Running Shoes,Sports,1226.35,8,2005-07-17,Customer 222,customer52@example.com
+4021,Watch,Accessories,768.04,10,2005-07-17,Customer 160,customer375@example.com
+8538,Headphones,Electronics,1133.92,7,2005-07-17,Customer 224,customer199@example.com
+5544,Gaming Laptop,Accessories,1822.33,7,2005-07-24,Customer 330,customer379@example.com
+1468,Backpack,Fashion,1511.37,7,2005-07-24,Customer 361,customer317@example.com
+5159,Smartphone,Electronics,367.18,10,2005-07-24,Customer 314,customer443@example.com
+4274,Backpack,Fashion,1471.48,3,2005-07-24,Customer 37,customer256@example.com
+3011,Office Chair,Furniture,1648.35,9,2005-07-24,Customer 264,customer154@example.com
+5502,Gaming Laptop,Accessories,285.33,2,2005-07-24,Customer 40,customer20@example.com
+6767,Gaming Laptop,Accessories,1952.79,2,2005-07-24,Customer 128,customer37@example.com
+8508,Backpack,Fashion,625.21,9,2005-07-24,Customer 200,customer455@example.com
+4765,Smartphone,Electronics,1857.35,10,2005-07-24,Customer 430,customer143@example.com
+1388,Gaming Laptop,Accessories,1063.76,2,2005-07-24,Customer 156,customer70@example.com
+2821,Watch,Accessories,1549.5,10,2005-07-31,Customer 31,customer44@example.com
+1690,Backpack,Fashion,947.78,4,2005-07-31,Customer 276,customer500@example.com
+3230,Gaming Laptop,Accessories,1581.61,6,2005-07-31,Customer 453,customer118@example.com
+1240,Tablet,Electronics,1840.62,3,2005-07-31,Customer 290,customer489@example.com
+5863,Smartphone,Electronics,323.06,9,2005-08-07,Customer 151,customer349@example.com
+9136,Backpack,Fashion,1829.65,1,2005-08-07,Customer 384,customer203@example.com
+6816,Tablet,Electronics,987.42,9,2005-08-07,Customer 460,customer468@example.com
+3516,Headphones,Electronics,523.49,5,2005-08-07,Customer 318,customer75@example.com
+5462,Running Shoes,Sports,807.91,9,2005-08-07,Customer 176,customer389@example.com
+7255,Watch,Accessories,1743.13,7,2005-08-07,Customer 7,customer382@example.com
+8713,Gaming Laptop,Accessories,1737.62,9,2005-08-07,Customer 17,customer83@example.com
+1828,Gaming Laptop,Accessories,158.34,7,2005-08-07,Customer 270,customer456@example.com
+5829,Running Shoes,Sports,558.27,8,2005-08-07,Customer 97,customer344@example.com
+9463,Watch,Accessories,913.44,5,2005-08-14,Customer 413,customer286@example.com
+1472,Backpack,Fashion,1672.0,1,2005-08-14,Customer 448,customer413@example.com
+2264,Watch,Accessories,600.64,5,2005-08-14,Customer 336,customer240@example.com
+4637,Headphones,Electronics,1457.7,7,2005-08-14,Customer 51,customer489@example.com
+6259,Tablet,Electronics,509.59,10,2005-08-14,Customer 248,customer31@example.com
+5284,Office Chair,Furniture,1586.66,8,2005-08-14,Customer 357,customer393@example.com
+7195,Headphones,Electronics,839.0,2,2005-08-14,Customer 341,customer64@example.com
+5151,Watch,Accessories,1036.47,9,2005-08-14,Customer 418,customer206@example.com
+1274,Watch,Accessories,1222.02,1,2005-08-14,Customer 192,customer490@example.com
+7999,Watch,Accessories,1031.56,2,2005-08-14,Customer 125,customer3@example.com
+9702,Gaming Laptop,Accessories,1467.95,1,2005-08-21,Customer 38,customer64@example.com
+6760,Smartphone,Electronics,1575.73,4,2005-08-21,Customer 100,customer475@example.com
+2995,Running Shoes,Sports,991.93,10,2005-08-21,Customer 373,customer335@example.com
+3662,Running Shoes,Sports,901.62,3,2005-08-21,Customer 129,customer233@example.com
+1744,Tablet,Electronics,1378.7,4,2005-08-21,Customer 471,customer160@example.com
+7928,Tablet,Electronics,661.07,9,2005-08-21,Customer 237,customer176@example.com
+4141,Running Shoes,Sports,886.44,6,2005-08-21,Customer 109,customer373@example.com
+3383,Gaming Laptop,Accessories,446.02,8,2005-08-21,Customer 104,customer70@example.com
+4288,Backpack,Fashion,1347.15,5,2005-08-21,Customer 165,customer95@example.com
+7853,Gaming Laptop,Accessories,1487.39,1,2005-08-28,Customer 126,customer290@example.com
+4395,Backpack,Fashion,1307.62,1,2005-08-28,Customer 41,customer92@example.com
+4842,Watch,Accessories,1725.93,6,2005-08-28,Customer 486,customer228@example.com
+2351,Gaming Laptop,Accessories,1024.46,10,2005-08-28,Customer 261,customer15@example.com
+8408,Gaming Laptop,Accessories,129.89,8,2005-08-28,Customer 482,customer417@example.com
+1397,Office Chair,Furniture,601.11,8,2005-08-28,Customer 176,customer137@example.com
+4842,Office Chair,Furniture,772.82,10,2005-09-04,Customer 71,customer38@example.com
+3996,Backpack,Fashion,433.77,3,2005-09-04,Customer 264,customer170@example.com
+7772,Smartphone,Electronics,319.53,2,2005-09-04,Customer 54,customer81@example.com
+1808,Tablet,Electronics,1609.45,8,2005-09-04,Customer 299,customer178@example.com
+2726,Office Chair,Furniture,348.48,10,2005-09-04,Customer 433,customer482@example.com
+3484,Smartphone,Electronics,1097.15,1,2005-09-04,Customer 236,customer471@example.com
+6785,Office Chair,Furniture,1617.92,5,2005-09-04,Customer 457,customer238@example.com
+5576,Backpack,Fashion,1656.11,10,2005-09-04,Customer 290,customer192@example.com
+8948,Watch,Accessories,1574.56,9,2005-09-11,Customer 156,customer454@example.com
+5927,Tablet,Electronics,1003.03,9,2005-09-11,Customer 256,customer410@example.com
+2850,Office Chair,Furniture,77.25,1,2005-09-11,Customer 109,customer391@example.com
+7882,Headphones,Electronics,257.73,2,2005-09-18,Customer 59,customer435@example.com
+9216,Headphones,Electronics,842.02,8,2005-09-18,Customer 429,customer217@example.com
+9554,Running Shoes,Sports,1898.44,8,2005-09-18,Customer 246,customer224@example.com
+8381,Watch,Accessories,1493.96,8,2005-09-18,Customer 244,customer297@example.com
+3762,Backpack,Fashion,277.87,8,2005-09-18,Customer 268,customer474@example.com
+2060,Office Chair,Furniture,1208.24,5,2005-09-18,Customer 407,customer480@example.com
+1283,Watch,Accessories,95.74,2,2005-09-25,Customer 412,customer107@example.com
+2505,Backpack,Fashion,1941.98,10,2005-09-25,Customer 277,customer110@example.com
+3973,Office Chair,Furniture,1275.06,6,2005-09-25,Customer 203,customer416@example.com
+5923,Gaming Laptop,Accessories,1745.8,5,2005-09-25,Customer 259,customer412@example.com
+2283,Running Shoes,Sports,1422.8,6,2005-09-25,Customer 186,customer283@example.com
+9220,Headphones,Electronics,1441.26,3,2005-09-25,Customer 346,customer200@example.com
+3707,Backpack,Fashion,127.34,4,2005-09-25,Customer 210,customer345@example.com
+4480,Headphones,Electronics,1082.6,9,2005-09-25,Customer 136,customer145@example.com
+3988,Gaming Laptop,Accessories,1852.87,7,2005-10-02,Customer 314,customer49@example.com
+9075,Office Chair,Furniture,763.04,7,2005-10-02,Customer 95,customer70@example.com
+7441,Tablet,Electronics,734.03,3,2005-10-02,Customer 270,customer299@example.com
+8263,Watch,Accessories,1568.12,4,2005-10-02,Customer 440,customer298@example.com
+2938,Tablet,Electronics,1888.86,1,2005-10-09,Customer 479,customer168@example.com
+1938,Smartphone,Electronics,817.73,6,2005-10-09,Customer 397,customer33@example.com
+2047,Running Shoes,Sports,1715.4,5,2005-10-09,Customer 25,customer438@example.com
+5543,Office Chair,Furniture,953.26,1,2005-10-09,Customer 213,customer249@example.com
+1501,Tablet,Electronics,1510.55,4,2005-10-09,Customer 400,customer166@example.com
+4298,Watch,Accessories,1138.7,4,2005-10-09,Customer 283,customer495@example.com
+8376,Headphones,Electronics,619.59,2,2005-10-09,Customer 328,customer23@example.com
+1660,Gaming Laptop,Accessories,1922.51,10,2005-10-16,Customer 119,customer253@example.com
+7787,Gaming Laptop,Accessories,1366.61,8,2005-10-16,Customer 328,customer151@example.com
+3081,Office Chair,Furniture,882.25,6,2005-10-16,Customer 62,customer239@example.com
+4926,Running Shoes,Sports,1922.14,7,2005-10-16,Customer 259,customer153@example.com
+4036,Office Chair,Furniture,948.59,10,2005-10-16,Customer 491,customer234@example.com
+8728,Smartphone,Electronics,1589.64,3,2005-10-16,Customer 494,customer20@example.com
+3209,Tablet,Electronics,556.4,1,2005-10-16,Customer 412,customer318@example.com
+9478,Tablet,Electronics,987.33,3,2005-10-23,Customer 366,customer272@example.com
+6533,Headphones,Electronics,1632.46,5,2005-10-23,Customer 329,customer186@example.com
+7523,Headphones,Electronics,1459.46,10,2005-10-23,Customer 269,customer412@example.com
+4776,Gaming Laptop,Accessories,225.6,4,2005-10-30,Customer 410,customer57@example.com
+6758,Headphones,Electronics,907.53,2,2005-10-30,Customer 260,customer499@example.com
+3334,Tablet,Electronics,1361.38,5,2005-10-30,Customer 147,customer179@example.com
+7838,Office Chair,Furniture,878.55,9,2005-10-30,Customer 162,customer112@example.com
+8357,Smartphone,Electronics,1430.08,4,2005-10-30,Customer 110,customer203@example.com
+7490,Office Chair,Furniture,352.27,9,2005-10-30,Customer 55,customer247@example.com
+9922,Gaming Laptop,Accessories,990.54,5,2005-10-30,Customer 191,customer268@example.com
+2332,Watch,Accessories,1910.28,10,2005-10-30,Customer 280,customer231@example.com
+2335,Office Chair,Furniture,1060.37,3,2005-10-30,Customer 165,customer80@example.com
+7140,Smartphone,Electronics,1413.18,3,2005-11-06,Customer 470,customer14@example.com
+3767,Office Chair,Furniture,716.15,1,2005-11-06,Customer 302,customer419@example.com
+4278,Backpack,Fashion,157.22,9,2005-11-06,Customer 455,customer277@example.com
+1584,Running Shoes,Sports,1509.88,1,2005-11-06,Customer 347,customer330@example.com
+8832,Tablet,Electronics,1778.76,8,2005-11-06,Customer 433,customer211@example.com
+9962,Smartphone,Electronics,1950.69,10,2005-11-06,Customer 231,customer303@example.com
+4050,Office Chair,Furniture,1721.53,5,2005-11-06,Customer 410,customer27@example.com
+2583,Headphones,Electronics,699.35,4,2005-11-06,Customer 268,customer358@example.com
+1750,Headphones,Electronics,1327.95,8,2005-11-06,Customer 270,customer99@example.com
+4319,Gaming Laptop,Accessories,934.89,7,2005-11-06,Customer 496,customer409@example.com
+7695,Watch,Accessories,1285.2,3,2005-11-13,Customer 217,customer333@example.com
+1158,Headphones,Electronics,1434.03,8,2005-11-13,Customer 18,customer316@example.com
+1123,Gaming Laptop,Accessories,1740.28,5,2005-11-13,Customer 434,customer247@example.com
+4689,Tablet,Electronics,1937.26,3,2005-11-13,Customer 21,customer395@example.com
+8458,Running Shoes,Sports,165.19,7,2005-11-13,Customer 395,customer73@example.com
+7060,Watch,Accessories,77.22,2,2005-11-13,Customer 426,customer166@example.com
+6794,Backpack,Fashion,489.91,2,2005-11-13,Customer 348,customer392@example.com
+9094,Watch,Accessories,389.96,8,2005-11-13,Customer 52,customer336@example.com
+8116,Headphones,Electronics,1901.5,1,2005-11-20,Customer 459,customer345@example.com
+4564,Watch,Accessories,674.41,6,2005-11-20,Customer 238,customer352@example.com
+7587,Headphones,Electronics,164.13,10,2005-11-20,Customer 167,customer325@example.com
+6255,Backpack,Fashion,150.26,8,2005-11-20,Customer 158,customer19@example.com
+6574,Smartphone,Electronics,1286.43,1,2005-11-20,Customer 311,customer87@example.com
+2203,Smartphone,Electronics,1455.7,10,2005-11-20,Customer 59,customer350@example.com
+7420,Office Chair,Furniture,1615.87,6,2005-11-20,Customer 215,customer108@example.com
+9858,Tablet,Electronics,389.08,6,2005-11-20,Customer 432,customer178@example.com
+9092,Office Chair,Furniture,174.88,2,2005-11-20,Customer 482,customer447@example.com
+8367,Watch,Accessories,1803.68,3,2005-11-27,Customer 478,customer269@example.com
+1984,Gaming Laptop,Accessories,852.03,5,2005-11-27,Customer 45,customer91@example.com
+4546,Backpack,Fashion,1157.92,10,2005-11-27,Customer 323,customer492@example.com
+8850,Headphones,Electronics,273.82,5,2005-11-27,Customer 228,customer353@example.com
+2073,Running Shoes,Sports,151.21,7,2005-11-27,Customer 242,customer197@example.com
+3333,Gaming Laptop,Accessories,1531.69,9,2005-11-27,Customer 156,customer365@example.com
+7054,Running Shoes,Sports,97.66,5,2005-12-04,Customer 184,customer314@example.com
+2287,Watch,Accessories,1369.62,6,2005-12-04,Customer 219,customer242@example.com
+1124,Office Chair,Furniture,1620.13,7,2005-12-04,Customer 116,customer44@example.com
+6171,Gaming Laptop,Accessories,1379.49,5,2005-12-04,Customer 156,customer419@example.com
+3742,Watch,Accessories,717.26,4,2005-12-04,Customer 55,customer212@example.com
+9409,Tablet,Electronics,977.21,7,2005-12-11,Customer 337,customer57@example.com
+6027,Headphones,Electronics,1842.57,4,2005-12-11,Customer 72,customer473@example.com
+5894,Backpack,Fashion,1989.71,1,2005-12-11,Customer 212,customer184@example.com
+1829,Backpack,Fashion,1956.01,9,2005-12-11,Customer 382,customer295@example.com
+6980,Office Chair,Furniture,564.0,2,2005-12-11,Customer 38,customer234@example.com
+4998,Backpack,Fashion,1613.29,8,2005-12-11,Customer 314,customer319@example.com
+1232,Smartphone,Electronics,502.4,2,2005-12-11,Customer 247,customer254@example.com
+8172,Running Shoes,Sports,418.67,3,2005-12-11,Customer 126,customer107@example.com
+2855,Smartphone,Electronics,530.16,10,2005-12-11,Customer 408,customer170@example.com
+1785,Headphones,Electronics,458.99,5,2005-12-11,Customer 82,customer345@example.com
+5382,Office Chair,Furniture,1814.48,6,2005-12-18,Customer 454,customer453@example.com
+9257,Running Shoes,Sports,605.22,3,2005-12-18,Customer 221,customer79@example.com
+5638,Office Chair,Furniture,183.84,6,2005-12-18,Customer 64,customer358@example.com
+3310,Watch,Accessories,1612.8,4,2005-12-18,Customer 445,customer238@example.com
+2729,Tablet,Electronics,278.45,10,2005-12-18,Customer 149,customer201@example.com
+1249,Smartphone,Electronics,427.41,4,2005-12-18,Customer 338,customer303@example.com
+3505,Smartphone,Electronics,1038.24,10,2005-12-18,Customer 324,customer144@example.com
+2635,Running Shoes,Sports,1554.57,6,2005-12-18,Customer 14,customer398@example.com
+6183,Watch,Accessories,729.29,2,2005-12-25,Customer 407,customer138@example.com
+2289,Tablet,Electronics,1142.77,5,2005-12-25,Customer 229,customer180@example.com
+6877,Headphones,Electronics,996.32,1,2005-12-25,Customer 144,customer271@example.com
+2711,Gaming Laptop,Accessories,1004.35,9,2005-12-25,Customer 16,customer87@example.com
+5985,Tablet,Electronics,1737.55,4,2005-12-25,Customer 273,customer80@example.com
+8215,Watch,Accessories,1118.11,8,2005-12-25,Customer 258,customer186@example.com
+8539,Backpack,Fashion,1918.28,3,2005-12-25,Customer 78,customer445@example.com
+2960,Tablet,Electronics,638.67,3,2005-12-25,Customer 78,customer56@example.com

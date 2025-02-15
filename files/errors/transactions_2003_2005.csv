@@ -1,0 +1,201 @@
+product_name,category,price,quantity,date,customer_name,customer_email
+Lego Set,Toys,517.08,5,2003-12-01,Bob Smith,bob.smith@example.com
+Lego Set,Toys,65.37,3,2003-07-07,David White,david.white@example.com
+Microwave,Home & Kitchen,298.7,5,2003-05-10,Emma Davis,emma.davis@example.com
+Toaster,Home & Kitchen,544.17,1,2003-01-22,Emma Davis,emma.davis@example.com
+Cooking Book,Books,282.38,5,2003-03-22,Bob Smith,bob.smith@example.com
+Fiction Book,Books,323.35,3,2003-05-19,Charlie Brown,charlie.brown@example.com
+Vacuum Cleaner,Home & Kitchen,578.73,1,2003-01-19,Alice Johnson,alice.johnson@example.com
+Board Game,Toys,600.98,3,2003-02-15,Alice Johnson,alice.johnson@example.com
+History Book,Books,590.9,5,2003-02-27,David White,david.white@example.com
+History Book,Books,249.23,4,2003-01-17,Alice Johnson,alice.johnson@example.com
+Microwave,Home & Kitchen,625.92,2,2003-08-27,Alice Johnson,alice.johnson@example.com
+Shoes,Clothing,912.51,3,2003-12-06,Bob Smith,bob.smith@example.com
+Microwave,Home & Kitchen,421.73,5,2003-02-04,Charlie Brown,charlie.brown@example.com
+Camera,Electronics,481.2,2,2003-04-12,Bob Smith,bob.smith@example.com
+Vacuum Cleaner,Home & Kitchen,565.24,4,2003-07-09,Bob Smith,bob.smith@example.com
+Vacuum Cleaner,Home & Kitchen,849.68,5,2003-04-16,Bob Smith,bob.smith@example.com
+Board Game,Toys,273.64,3,2003-02-03,David White,david.white@example.com
+Puzzle,Toys,339.07,3,2003-05-19,Alice Johnson,alice.johnson@example.com
+Puzzle,Toys,847.74,2,2003-05-27,Bob Smith,bob.smith@example.com
+Cooking Book,Books,348.42,2,2003-07-25,Bob Smith,bob.smith@example.com
+Blender,Home & Kitchen,816.91,5,2003-11-16,David White,david.white@example.com
+Camera,Electronics,576.3,3,2003-01-22,Alice Johnson,alice.johnson@example.com
+Toaster,Home & Kitchen,598.12,3,2003-02-04,Emma Davis,emma.davis@example.com
+Lego Set,Toys,689.47,1,2003-02-13,Bob Smith,bob.smith@example.com
+Microwave,Home & Kitchen,467.62,5,2003-08-12,Bob Smith,bob.smith@example.com
+Microwave,Home & Kitchen,918.9,2,2003-03-24,Charlie Brown,charlie.brown@example.com
+Laptop,Electronics,610.14,3,2003-08-15,David White,david.white@example.com
+Phone,Electronics,922.29,2,2003-09-13,Charlie Brown,charlie.brown@example.com
+Laptop,Electronics,503.69,1,2003-06-11,Bob Smith,bob.smith@example.com
+Lego Set,Toys,396.1,2,2003-12-06,Charlie Brown,charlie.brown@example.com
+Doll,Toys,577.93,3,2003-09-08,Emma Davis,emma.davis@example.com
+Doll,Toys,74.26,5,2003-07-14,Emma Davis,emma.davis@example.com
+Tablet,Electronics,542.86,3,2003-05-28,Charlie Brown,charlie.brown@example.com
+Phone,Electronics,105.39,1,2003-11-07,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,226.03,3,2003-06-07,Charlie Brown,charlie.brown@example.com
+Tablet,Electronics,204.78,2,2003-02-13,David White,david.white@example.com
+Science Book,Books,380.22,3,2003-04-27,Charlie Brown,charlie.brown@example.com
+Vacuum Cleaner,Home & Kitchen,573.33,4,2003-01-01,David White,david.white@example.com
+Microwave,Home & Kitchen,148.74,1,2003-09-11,Emma Davis,emma.davis@example.com
+Jeans,Clothing,123.72,5,2003-01-12,Bob Smith,bob.smith@example.com
+Microwave,Home & Kitchen,272.86,4,2003-01-04,Alice Johnson,alice.johnson@example.com
+Phone,Electronics,593.67,2,2003-04-02,Emma Davis,emma.davis@example.com
+Doll,Toys,344.56,1,2003-12-02,Emma Davis,emma.davis@example.com
+Blender,Home & Kitchen,17.59,3,2003-12-10,David White,david.white@example.com
+Toaster,Home & Kitchen,958.66,5,2003-06-21,David White,david.white@example.com
+Board Game,Toys,273.01,2,2003-04-20,Emma Davis,emma.davis@example.com
+Vacuum Cleaner,Home & Kitchen,94.27,3,2003-05-14,Alice Johnson,alice.johnson@example.com
+Fiction Book,Books,316.89,1,2003-11-04,Alice Johnson,alice.johnson@example.com
+Camera,Electronics,347.31,3,2003-06-17,Bob Smith,bob.smith@example.com
+Blender,Home & Kitchen,365.98,3,2003-06-10,Alice Johnson,alice.johnson@example.com
+Shirt,Clothing,488.07,4,2003-08-07,David White,david.white@example.com
+Blender,Home & Kitchen,926.87,3,2003-11-11,Charlie Brown,charlie.brown@example.com
+Fiction Book,Books,57.58,3,2003-03-19,Bob Smith,bob.smith@example.com
+Camera,Electronics,681.61,2,2003-09-01,David White,david.white@example.com
+Lego Set,Toys,20.96,5,2003-05-12,Alice Johnson,alice.johnson@example.com
+Fiction Book,Books,355.78,1,2003-04-19,David White,david.white@example.com
+Lego Set,Toys,925.94,2,2003-04-01,David White,david.white@example.com
+Toaster,Home & Kitchen,622.77,5,2003-02-28,Charlie Brown,charlie.brown@example.com
+Jacket,Clothing,34.58,4,2003-02-23,Charlie Brown,charlie.brown@example.com
+Shirt,Clothing,573.76,4,2003-03-25,Charlie Brown,charlie.brown@example.com
+Laptop,Electronics,901.49,3,2003-02-14,Emma Davis,emma.davis@example.com
+Shoes,Clothing,701.26,4,2003-05-14,Alice Johnson,alice.johnson@example.com
+Tablet,Electronics,458.6,5,2003-08-27,Emma Davis,emma.davis@example.com
+Board Game,Toys,175.1,2,2003-04-11,Charlie Brown,charlie.brown@example.com
+Jacket,Clothing,48.87,3,2003-06-18,Emma Davis,emma.davis@example.com
+Laptop,Electronics,690.34,2,2003-02-18,David White,david.white@example.com
+Fiction Book,Books,893.39,2,2003-12-19,David White,david.white@example.com
+Doll,Toys,291.84,2,2003-07-15,Bob Smith,bob.smith@example.com
+Jacket,Clothing,462.38,5,2003-12-23,Alice Johnson,alice.johnson@example.com
+Puzzle,Toys,51.45,2,2003-03-01,Alice Johnson,alice.johnson@example.com
+Laptop,Electronics,845.35,4,2003-03-21,Emma Davis,emma.davis@example.com
+Toaster,Home & Kitchen,164.44,2,2003-06-16,Charlie Brown,charlie.brown@example.com
+Shoes,Clothing,255.99,4,2003-08-10,Alice Johnson,alice.johnson@example.com
+Jeans,Clothing,543.09,2,2003-05-04,Charlie Brown,charlie.brown@example.com
+Board Game,Toys,888.14,3,2003-07-14,Emma Davis,emma.davis@example.com
+Microwave,Home & Kitchen,677.93,3,2003-12-25,Bob Smith,bob.smith@example.com
+Puzzle,Toys,913.78,3,2003-05-23,Alice Johnson,alice.johnson@example.com
+Doll,Toys,195.69,3,2003-09-25,Bob Smith,bob.smith@example.com
+Lego Set,Toys,264.93,3,2003-08-03,Emma Davis,emma.davis@example.com
+Lego Set,Toys,114.87,4,2003-09-17,Bob Smith,bob.smith@example.com
+Doll,Toys,327.65,4,2003-01-14,Charlie Brown,charlie.brown@example.com
+Board Game,Toys,689.77,2,2003-11-28,Emma Davis,emma.davis@example.com
+Jeans,Clothing,213.91,3,2003-08-11,Bob Smith,bob.smith@example.com
+History Book,Books,864.82,3,2003-10-14,David White,david.white@example.com
+Laptop,Electronics,236.01,3,2003-10-02,David White,david.white@example.com
+Science Book,Books,339.37,5,2003-09-20,Alice Johnson,alice.johnson@example.com
+Lego Set,Toys,713.32,1,2003-09-02,Charlie Brown,charlie.brown@example.com
+Tablet,Electronics,507.4,4,2003-07-23,Alice Johnson,alice.johnson@example.com
+Fiction Book,Books,65.28,4,2003-04-07,Alice Johnson,alice.johnson@example.com
+Fiction Book,Books,347.6,4,2003-07-07,Charlie Brown,charlie.brown@example.com
+Shoes,Clothing,720.57,3,2003-11-06,Emma Davis,emma.davis@example.com
+Tablet,Electronics,264.27,1,2003-09-20,David White,david.white@example.com
+Blender,Home & Kitchen,547.71,4,2003-02-15,Emma Davis,emma.davis@example.com
+Vacuum Cleaner,Home & Kitchen,710.84,5,2003-06-06,Alice Johnson,alice.johnson@example.com
+Puzzle,Toys,524.15,3,2003-03-03,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,811.48,2,2003-03-05,Charlie Brown,charlie.brown@example.com
+Toaster,Home & Kitchen,899.98,2,2003-05-23,David White,david.white@example.com
+Shirt,Clothing,924.56,1,2003-07-12,Emma Davis,emma.davis@example.com
+Blender,Home & Kitchen,537.43,3,2003-05-13,David White,david.white@example.com
+Fiction Book,Books,811.87,5,2003-07-22,Emma Davis,emma.davis@example.com
+Shirt,Clothing,521.51,5,2005-12-06,David White,david.white@example.com
+Tablet,Electronics,652.9,4,2005-06-11,David White,david.white@example.com
+Doll,Toys,989.63,3,2005-11-23,David White,david.white@example.com
+Phone,Electronics,372.92,5,2005-09-22,Charlie Brown,charlie.brown@example.com
+Shoes,Clothing,627.99,3,2005-08-05,Charlie Brown,charlie.brown@example.com
+Jeans,Clothing,226.1,2,2005-11-09,Charlie Brown,charlie.brown@example.com
+Blender,Home & Kitchen,487.13,3,2005-09-15,Emma Davis,emma.davis@example.com
+Blender,Home & Kitchen,564.18,1,2005-03-22,Alice Johnson,alice.johnson@example.com
+Science Book,Books,165.49,5,2005-04-28,David White,david.white@example.com
+Phone,Electronics,964.17,1,2005-03-08,Bob Smith,bob.smith@example.com
+History Book,Books,632.86,1,2005-06-10,Bob Smith,bob.smith@example.com
+Jeans,Clothing,725.24,3,2005-06-12,Alice Johnson,alice.johnson@example.com
+Lego Set,Toys,994.04,5,2005-05-21,Alice Johnson,alice.johnson@example.com
+Fiction Book,Books,550.55,2,2005-11-27,Bob Smith,bob.smith@example.com
+Vacuum Cleaner,Home & Kitchen,817.54,1,2005-06-07,Charlie Brown,charlie.brown@example.com
+Fiction Book,Books,637.18,1,2005-03-01,Emma Davis,emma.davis@example.com
+Puzzle,Toys,91.96,3,2005-02-03,Bob Smith,bob.smith@example.com
+Science Book,Books,970.87,4,2005-02-21,Emma Davis,emma.davis@example.com
+Puzzle,Toys,765.74,5,2005-07-08,Bob Smith,bob.smith@example.com
+Toaster,Home & Kitchen,17.31,2,2005-05-21,Bob Smith,bob.smith@example.com
+Microwave,Home & Kitchen,271.91,1,2005-10-11,Emma Davis,emma.davis@example.com
+Fiction Book,Books,279.37,4,2005-11-12,Charlie Brown,charlie.brown@example.com
+Doll,Toys,47.25,5,2005-03-05,David White,david.white@example.com
+Doll,Toys,936.92,4,2005-01-18,Alice Johnson,alice.johnson@example.com
+Camera,Electronics,702.14,2,2005-04-08,Charlie Brown,charlie.brown@example.com
+Vacuum Cleaner,Home & Kitchen,47.75,1,2005-09-12,Charlie Brown,charlie.brown@example.com
+Cooking Book,Books,301.96,5,2005-05-23,Emma Davis,emma.davis@example.com
+Board Game,Toys,393.18,4,2005-12-06,Charlie Brown,charlie.brown@example.com
+Blender,Home & Kitchen,306.38,1,2005-06-10,Charlie Brown,charlie.brown@example.com
+Jacket,Clothing,492.51,3,2005-10-03,Alice Johnson,alice.johnson@example.com
+Phone,Electronics,582.92,2,2005-01-26,Bob Smith,bob.smith@example.com
+Blender,Home & Kitchen,703.62,5,2005-09-18,Alice Johnson,alice.johnson@example.com
+Doll,Toys,346.33,1,2005-10-17,Emma Davis,emma.davis@example.com
+Shirt,Clothing,458.21,2,2005-10-05,Charlie Brown,charlie.brown@example.com
+Blender,Home & Kitchen,684.34,2,2005-12-19,Alice Johnson,alice.johnson@example.com
+Blender,Home & Kitchen,918.86,1,2005-07-15,Charlie Brown,charlie.brown@example.com
+Laptop,Electronics,38.43,4,2005-04-07,Alice Johnson,alice.johnson@example.com
+Camera,Electronics,646.61,3,2005-03-09,David White,david.white@example.com
+History Book,Books,756.98,5,2005-11-20,David White,david.white@example.com
+Phone,Electronics,751.54,2,2005-12-22,David White,david.white@example.com
+Shoes,Clothing,603.89,3,2005-02-22,Emma Davis,emma.davis@example.com
+Laptop,Electronics,916.07,4,2005-09-21,Alice Johnson,alice.johnson@example.com
+Jacket,Clothing,107.86,4,2005-03-14,Emma Davis,emma.davis@example.com
+Puzzle,Toys,737.51,3,2005-02-20,Alice Johnson,alice.johnson@example.com
+Laptop,Electronics,232.75,2,2005-10-24,Emma Davis,emma.davis@example.com
+Science Book,Books,849.31,4,2005-10-22,David White,david.white@example.com
+Cooking Book,Books,212.7,3,2005-01-20,David White,david.white@example.com
+Science Book,Books,263.18,1,2005-07-17,David White,david.white@example.com
+Lego Set,Toys,125.64,3,2005-04-14,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,904.5,3,2005-11-26,Bob Smith,bob.smith@example.com
+Jeans,Clothing,37.86,3,2005-09-14,Bob Smith,bob.smith@example.com
+Lego Set,Toys,116.89,2,2005-03-04,Charlie Brown,charlie.brown@example.com
+Lego Set,Toys,115.81,2,2005-05-23,Emma Davis,emma.davis@example.com
+Jacket,Clothing,386.42,2,2005-02-17,Bob Smith,bob.smith@example.com
+History Book,Books,628.8,1,2005-06-02,Charlie Brown,charlie.brown@example.com
+Doll,Toys,41.57,4,2005-07-04,Alice Johnson,alice.johnson@example.com
+Puzzle,Toys,667.86,5,2005-08-27,Emma Davis,emma.davis@example.com
+Vacuum Cleaner,Home & Kitchen,612.66,2,2005-02-09,Emma Davis,emma.davis@example.com
+Camera,Electronics,755.44,2,2005-07-10,Alice Johnson,alice.johnson@example.com
+Cooking Book,Books,895.13,5,2005-10-11,Bob Smith,bob.smith@example.com
+Puzzle,Toys,576.33,5,2005-01-07,Charlie Brown,charlie.brown@example.com
+Board Game,Toys,450.74,2,2005-07-14,Charlie Brown,charlie.brown@example.com
+Cooking Book,Books,175.06,1,2005-01-14,David White,david.white@example.com
+Jeans,Clothing,269.09,5,2005-07-04,Bob Smith,bob.smith@example.com
+Toaster,Home & Kitchen,605.03,3,2005-06-22,Emma Davis,emma.davis@example.com
+Jacket,Clothing,274.45,5,2005-06-04,David White,david.white@example.com
+Puzzle,Toys,371.57,4,2005-04-05,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,980.43,2,2005-08-26,David White,david.white@example.com
+Cooking Book,Books,301.57,2,2005-01-18,Bob Smith,bob.smith@example.com
+History Book,Books,169.86,1,2005-01-22,Alice Johnson,alice.johnson@example.com
+Cooking Book,Books,445.9,2,2005-02-05,Bob Smith,bob.smith@example.com
+Vacuum Cleaner,Home & Kitchen,178.9,2,2005-11-24,Bob Smith,bob.smith@example.com
+Fiction Book,Books,487.15,1,2005-11-20,Alice Johnson,alice.johnson@example.com
+Blender,Home & Kitchen,783.13,4,2005-11-21,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,399.8,4,2005-02-16,Emma Davis,emma.davis@example.com
+Shirt,Clothing,19.83,4,2005-10-19,Emma Davis,emma.davis@example.com
+Shirt,Clothing,29.74,3,2005-01-12,Charlie Brown,charlie.brown@example.com
+Tablet,Electronics,637.95,3,2005-11-16,David White,david.white@example.com
+Camera,Electronics,340.39,1,2005-01-07,Emma Davis,emma.davis@example.com
+Jeans,Clothing,983.23,4,2005-11-04,Charlie Brown,charlie.brown@example.com
+Microwave,Home & Kitchen,480.44,4,2005-09-12,Bob Smith,bob.smith@example.com
+Tablet,Electronics,353.8,1,2005-04-27,David White,david.white@example.com
+Doll,Toys,366.21,1,2005-03-13,Alice Johnson,alice.johnson@example.com
+Board Game,Toys,470.18,1,2005-03-12,Charlie Brown,charlie.brown@example.com
+Doll,Toys,471.55,5,2005-01-18,David White,david.white@example.com
+Jeans,Clothing,594.98,2,2005-11-19,Bob Smith,bob.smith@example.com
+Board Game,Toys,330.83,5,2005-11-04,Charlie Brown,charlie.brown@example.com
+History Book,Books,733.68,4,2005-02-25,Charlie Brown,charlie.brown@example.com
+Camera,Electronics,724.66,5,2005-02-04,David White,david.white@example.com
+Microwave,Home & Kitchen,769.97,3,2005-07-02,Charlie Brown,charlie.brown@example.com
+Science Book,Books,303.18,5,2005-10-07,David White,david.white@example.com
+Camera,Electronics,78.18,1,2005-11-12,Alice Johnson,alice.johnson@example.com
+Tablet,Electronics,145.52,1,2005-04-15,Bob Smith,bob.smith@example.com
+Shoes,Clothing,844.97,1,2005-09-02,David White,david.white@example.com
+Shoes,Clothing,639.2,5,2005-11-26,Alice Johnson,alice.johnson@example.com
+Vacuum Cleaner,Home & Kitchen,707.88,5,2005-05-28,David White,david.white@example.com
+Vacuum Cleaner,Home & Kitchen,648.87,2,2005-05-16,Bob Smith,bob.smith@example.com
+Laptop,Electronics,69.89,3,2005-09-01,Emma Davis,emma.davis@example.com
+Microwave,Home & Kitchen,412.09,2,2005-06-10,Emma Davis,emma.davis@example.com
+Science Book,Books,588.67,2,2005-09-14,Emma Davis,emma.davis@example.com
