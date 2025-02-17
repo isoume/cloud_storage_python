@@ -12,8 +12,8 @@ DATASET_NAME="m2dsia_nom"
 TABLE_NAME = "transaction"
 
 #
-BUCKET_NAME = "m2dsia-nom-input-dataproc"
-BUCKET_NAME_TMP = "m2dsia-nom-input-dataproc-tmp"
+BUCKET_NAME = "m2dsia-dataproc-data-nom"
+BUCKET_NAME_TMP = "m2dsia-dataproc-data-nom-tmp"
 
 # Define paths
 gcs_input_path = f"gs://{BUCKET_NAME}/*.csv"  # Wildcard for multiple files
@@ -27,7 +27,7 @@ df = spark.read.csv(gcs_input_path, header=True, inferSchema=True)
 #processed_df = df.filter(col("some_column") > 10).select("col1", "col2", "col3")
 
 # Write DataFrame to BigQuery
-processed_df.write \
+df.write \
     .format("bigquery") \
     .option("table", bigquery_table) \
     .option("temporaryGcsBucket", gcs_temp_bucket) \
